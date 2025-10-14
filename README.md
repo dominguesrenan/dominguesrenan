@@ -13,6 +13,7 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
 </div>
 
 <div style="
+  align-items: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -51,7 +52,6 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
   <img align="center" alt="Renan-Nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Renan-PostgreSQL" height="30" width="40" src="https://skillicons.dev/icons?i=postgresql">
-  <img align="center" alt="Renan-MongoDB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb">
   <img align="center" alt="Renan-Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker">
   <img align="center" alt="Renan-Nginx" height="30" width="40" src="https://skillicons.dev/icons?i=nginx">
   <img align="center" alt="Renan-Cloudflare" height="30" width="40" src="https://skillicons.dev/icons?i=cloudflare">
