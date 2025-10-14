@@ -12,29 +12,30 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
 
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1.5em;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1em; align-items: flex-start; width: 50%;">
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 1em; flex: 1 1 220px; max-width: 28%; min-width: 180px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=dominguesrenan&layout=compact&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=contribs,prs&cache_seconds=86400&locale=pt-br"
-        alt="GitHub Stats"
-        style="width: 50%; height: auto;"
-      />
-      <a href="https://github.com/dominguesrenan/narutodexapp">
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dominguesrenan&repo=narutodexapp&cache_seconds=86400&theme=midnight-purple&locale=pt-br"
-          alt="NarutoDex"
-          style="width: 50%; height: auto;"
-        />
-      </a>
-    </div>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguesrenan&langs_count=50&theme=midnight-purple&locale=pt-br&stats_format=bytes&hide_progress=true"
-        alt="Linguagens mais usadas"
-        style="flex: 2 1 420px; max-width: 25%; height: auto; min-width: 300px;"
-      />
+<div align="center" style="
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: flex-start; 
+  gap: 1em;
+">
+
+  <!-- Coluna da esquerda (2 imagens empilhadas) -->
+  <div style="
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    gap: 1em;
+  ">
+    <img src="https://github-readme-stats.vercel.app/api?username=dominguesrenan&layout=compact&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=contribs,prs&cache_seconds=86400&locale=pt-br" width="450" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dominguesrenan&repo=narutodexapp&cache_seconds=86400&theme=midnight-purple&locale=pt-br" width="450" />
   </div>
+
+  <!-- Card ao lado -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguesrenan&langs_count=50&theme=midnight-purple&locale=pt-br&stats_format=bytes&hide_progress=true" width="400" />
+
 </div>
+
 
 <div style="display: inline_block": align="center"><br>
   <img align="center" alt="Renan-PHP" height="30" width="40" src="https://skillicons.dev/icons?i=php">
@@ -80,40 +81,6 @@ Abaixo as habilidades e experiências que eu tenho na minha carreira:
 | **Ferramentas**                  | VS Code, PhpStorm, Postman/Insomnia, Figma, Grafana, Discord, Android Studio    |
 
 </div>
-
-## Experiência Profissional
-
-### Analista de Implantação — Bis2Bis E-commerce
-**`Abril 2019 - Presente`**
-
-Responsável pela implantação e configuração de plataformas de e-commerce Magento 1 e 2, atendimento ao cliente e gerenciamento de projetos utilizando metodologias ágeis.
-
-**Principais Atividades:**
-
-Magento 1 & 2 APIs REST/SOAP Metodologia Scrum Jira & Trello
-* Atendimento telefônico e via sistema de chamados (Movidesk)
-* Implantação completa de projetos Magento 1 e 2
-* Integração de métodos de entrega e pagamento
-* Treinamento de clientes nas plataformas
-* Configuração de PWA (Progressive Web App)
-* Integrações com ERPs via API (Bling, Tiny)
-* Integrações com marketplaces (AnyMarket, Mercado Livre)
-* SEO e analytics (Google Merchant Center, Facebook Pixel)
-* Desenvolvimento do app em React Native + Expo
-
-### **Experiências**
-- **Adobe Commerce (Magento 1 & 2)**: 6+ anos de experiência
-- **Desenvolvimento Full Stack**: PHP, Node.js, JavaScript/TypeScript
-- **Integrações de Sistemas**: APIs REST, GraphQL, Webhooks, Swaggers
-- **Otimização de Performance**: Cache, CDNs, banco de dados
-- **DevOps**: Docker, CI/CD, monitoramento
-
-### **Metodologias**
-- **Scrum & Kanban**: Desenvolvimento ágil
-- **Git Flow**: Versionamento de repositórios
-- **Documentação**: READMEs, wikis, APIs
-
----
 
 ## Projetos Destacados
 
@@ -255,6 +222,40 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 - **Bibliotecas**: TanStack Query, Framer Motion, Lucide Icons
 - **Ambiente de Containerização**: Docker para ambiente de desenvolvimento
 - **Analytics**: Integração com Google Analytics 4
+
+---
+
+## Experiência Profissional
+
+### Analista de Implantação — Bis2Bis E-commerce
+**`Abril 2019 - Presente`**
+
+Responsável pela implantação e configuração de plataformas de e-commerce Magento 1 e 2, atendimento ao cliente e gerenciamento de projetos utilizando metodologias ágeis.
+
+**Principais Atividades:**
+
+Magento 1 & 2 APIs REST/SOAP Metodologia Scrum Jira & Trello
+* Atendimento telefônico e via sistema de chamados (Movidesk)
+* Implantação completa de projetos Magento 1 e 2
+* Integração de métodos de entrega e pagamento
+* Treinamento de clientes nas plataformas
+* Configuração de PWA (Progressive Web App)
+* Integrações com ERPs via API (Bling, Tiny)
+* Integrações com marketplaces (AnyMarket, Mercado Livre)
+* SEO e analytics (Google Merchant Center, Facebook Pixel)
+* Desenvolvimento do app em React Native + Expo
+
+### **Experiências**
+- **Adobe Commerce (Magento 1 & 2)**: 6+ anos de experiência
+- **Desenvolvimento Full Stack**: PHP, Node.js, JavaScript/TypeScript
+- **Integrações de Sistemas**: APIs REST, GraphQL, Webhooks, Swaggers
+- **Otimização de Performance**: Cache, CDNs, banco de dados
+- **DevOps**: Docker, CI/CD, monitoramento
+
+### **Metodologias**
+- **Scrum & Kanban**: Desenvolvimento ágil
+- **Git Flow**: Versionamento de repositórios
+- **Documentação**: READMEs, wikis, APIs
 
 ---
 
