@@ -13,18 +13,18 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
 </div>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1.5em;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1em; align-items: flex-start; width: 100%;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1em; align-items: flex-start; width: 25%;">
     <div style="display: flex; flex-direction: column; align-items: center; gap: 1em; flex: 1 1 220px; max-width: 28%; min-width: 180px;">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=dominguesrenan&layout=compact&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=contribs,prs&cache_seconds=86400&locale=pt-br"
         alt="GitHub Stats"
-        style="width: 100%; height: auto;"
+        style="width: 25%; height: auto;"
       />
       <a href="https://github.com/dominguesrenan/narutodexapp">
         <img 
           src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dominguesrenan&repo=narutodexapp&cache_seconds=86400&theme=midnight-purple&locale=pt-br"
           alt="NarutoDex"
-          style="width: 100%; height: auto;"
+          style="width: 25%; height: auto;"
         />
       </a>
     </div>
