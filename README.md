@@ -13,19 +13,18 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
 </div>
 
 <div align="center" style="
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  align-items: flex-start; 
-  gap: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.2%;
 ">
 
   <!-- Coluna da esquerda (2 imagens empilhadas) -->
   <div style="
-    display: flex; 
-    flex-direction: column; 
+    display: flex;
+    flex-direction: column;
     align-items: center; 
-    gap: 1em;
+    gap: 0.5%;
   ">
     <img src="https://github-readme-stats.vercel.app/api?username=dominguesrenan&layout=compact&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=contribs,prs&cache_seconds=86400&locale=pt-br" width="450" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dominguesrenan&repo=narutodexapp&cache_seconds=86400&theme=midnight-purple&locale=pt-br" width="450" />
