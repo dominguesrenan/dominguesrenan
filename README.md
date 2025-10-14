@@ -12,8 +12,7 @@ Além da experiência em desenvolvimento de aplicações web, tenho experiência
 
 </div>
 
-<div style="
-  align-items: center;
+<div align="center" style="
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
