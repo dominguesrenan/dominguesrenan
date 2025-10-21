@@ -31,18 +31,18 @@
 
 <div align="center">
 
-## Olá 👋 Sou Renan Domingues
+## Hey 👋 I'm Renan Domingues
 
-### Engenheiro de Software | Desenvolvedor Full Stack | DevOps
-`😎 Posso desenvolver qualquer coisa — só preciso da minha xícara de café e um pit stop de pizza rs...`
+### Software Engineer | Full Stack Developer | DevOps
+`😎 I can develop anything: all I need is a cup of coffee and a pizza-flavored cookie rs...`
 
 </div>
 
-🎓 Um **Analista de Sistema** que fez a transição para **Desenvolvedor Full Stack**, com foco em **Desenvolvimento Web** e **Desenvolvimento de Aplicações Android/iOs**.
+🎓 A **Systems Analyst** who transitioned to **Full Stack Developer**, focusing on **Web Development** and **Android/iOs Application Development**.
 
-👨‍💻 Tenho experiência em **Laravel (PHP)**, **Node.js (Nest.js/Express)**, **React (Next.js)/Vue.js (Nuxt.js), JavaScript/TypeScript**, **React Native + Expo**, **infraestrutura com Docker + Docker-compose + CI/CD (GitHub Actions, Cloudflare Pages/Workers)** e atuo no **planejamento, desenvolvimento e deploy de aplicações web**, unindo **boas práticas de arquitetura** com foco em **performance, escalabilidade e experiência do usuário**.
+👨‍💻 I have experience in **Laravel (PHP)**, **Node.js (Nest.js/Express)**, **React (Next.js), Vue.js (Nuxt.js), JavaScript/TypeScript**, **React Native + Expo**, **infrastructure with Docker + Docker-compose, CI/CD (GitHub Actions, Cloudflare Pages/Workers)** and I work in **planning, development and deployment of web applications**, combining **good architectural practices** with a focus on **performance, scalability and user experience**.
 
-✅ Além da experiência em desenvolvimento de aplicações web, tenho experiência em **E-commerce** com plataformas **Magento 1 e 2 - Adobe Commerce** e **WooCommerce**.
+✅ In addition to experience in web application development, I have experience in **E-commerce** with **Magento 1 and 2 - Adobe Commerce** and **WooCommerce** platforms.
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -55,21 +55,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguesrenan&langs_count=50&theme=midnight-purple&locale=pt-br&stats_format=bytes&hide_progress=true" height="160" />
 </div>
 
-## Habilidades e Experiências 👨‍💻
+## Skills and Experience 👨‍💻
 
 </div>
 
-| Arquitetura                  | Frameworks & Bibliotecas                                                        |
-| ---------------------------- | ------------------------------------------------------------------------------- |
-| **Backend**                      | PHP (Laravel, Symfony), Node.js (Nest.js e Express.js), Python (Flask e Django)   |
-| **Frontend**                     | HTML, CSS (Less/Sass), JavaScript (JS), TypeScript (TS) - React (Next.js), Vue.js (Nuxt.js), Angular - TailwindCSS, MaterialUI, ShadncUI, Bootstrap, Vuetify - Vite |
-| **Banco de Dados & Cache**       | MySQL, PostgreSQL, MongoDB, SQLite, Redis, RabbitMQ, Elasticsearch              |
-| **Android & iOS**                | React-Native + Expo                                                             |
-| **DevOps & Infraestrutura**      | Contâiners e Deploy com Docker + Docker-Compose, Servidor web/reverso com Nginx |
-| **Sistemas operacionais**        | Windows (PowerShell e CMD), Linux (Bash e Terminal), Debian, Ubuntu, Mint, Kali |
-| **Versionamento e repositórios** | Git, GitHub, GitLab, Bitbucket                                                  |
-| **Hospedagem, CDN e edge computing** | Cloudflare, Workers, Netlify, Wrangler, Vercel                              |
-| **Ferramentas**                  | VS Code, PhpStorm, Postman/Insomnia, Figma, Grafana, Discord, Android Studio    |
+| Architecture                        | Frameworks and Libraries                                                        |
+| ----------------------------------- | ------------------------------------------------------------------------------- |
+| **Backend**                         | PHP (Laravel, Symfony), Node.js (Nest.js e Express.js), Python (Flask e Django) |
+| **Frontend**                        | HTML, CSS (Less/Sass), JavaScript (JS), TypeScript (TS) - React (Next.js), Vue.js (Nuxt.js), Angular - TailwindCSS, MaterialUI, ShadncUI, Bootstrap, Vuetify - Vite |
+| **Database and Cache**              | MySQL, PostgreSQL, MongoDB, SQLite, Redis, RabbitMQ, Elasticsearch              |
+| **Android & iOS**                   | React-Native + Expo                                                             |
+| **DevOps and Infrastructure**       | Contâiners e Deploy com Docker + Docker-Compose, Servidor web/reverso com Nginx |
+| **Operating Systems**               | Windows (PowerShell e CMD), Linux (Bash e Terminal), Debian, Ubuntu, Mint, Kali |
+| **Versioning and Repositories**     | Git, GitHub, GitLab, Bitbucket                                                  |
+| **Hosting, CDN and edge computing** | Cloudflare, Workers, Netlify, Wrangler, Vercel                              |
+| **Tools**                           | VS Code, PhpStorm, Postman/Insomnia, Figma, Grafana, Discord, Android Studio    |
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -77,9 +77,9 @@
 
 <div align="center">
 
-## Projetos Destacados
+## Featured Projects
 
-Aqui estão meus principais projetos, demonstrando versatilidade técnica e experiência em diferentes domínios:
+Here are my main projects, demonstrating technical versatility and experience in different domains:
 
 </div>
 
@@ -97,7 +97,7 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 
 <div style="display: block;">
 
-### **Sistema Administrativo (Laravel)**
+### **Administrative System (Laravel)**
 **`Admin Sistema de CRUD Completo`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/admin_sistemadecrud)**
@@ -114,7 +114,7 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 <div style="display: block;">
 
 ### **NarutoDex App**
-**Aplicação Full Stack sobre o Universo Naruto**
+**Full Stack Application about the Naruto Universe**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/narutodexapp)** |
 🌐 **[Demo Web](https://narutodex.pages.dev/)** |
@@ -136,8 +136,8 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 
 <div style="display: block;">
 
-### **Integração Magento 2 (Vue.js)**
-**Frontend Moderno para E-commerce**
+### **Integration Magento 2 (Vue.js)**
+**Frontend for E-commerce**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/aplicacaointegracao_magento2)**
 
@@ -153,7 +153,7 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 <div style="display: block;">
 
 ### **E-commerce Magento 2**
-**Plataforma Completa de Comércio Eletrônico**
+**Complete E-Commerce Platform**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/magento2-ecommerce)**
 
@@ -171,8 +171,8 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 
 <div align="center">
 
-### **Portfólio Pessoal**
-**Site Portfólio Moderno e Interativo**
+### **Personal Portfolio**
+**Portfolio and Interactive Website**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/portifolio-pessoal)**
 
@@ -207,12 +207,12 @@ Aqui estão meus principais projetos, demonstrando versatilidade técnica e expe
 
 <div align="center">
 
-### **Vamos discutir oportunidades e projetos interessantes!**
+### **Let's discuss interesting opportunities and projects!**
 
 [![LinkedIn](https://img.shields.io/badge/-Renan%20Domingues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-domingues-4808b2172/)](https://www.linkedin.com/in/renan-domingues-4808b2172/)
 [![GitHub](https://img.shields.io/badge/-Renan%20Domingues-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dominguesrenan)](https://github.com/dominguesrenan)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:renandomingues.rsd@gmail.com)](mailto:renandomingues.rsd@gmail.com)
 
-![Última atualização](https://img.shields.io/badge/Última%20atualização-14--10--2025-informational)
+[![Experience](https://img.shields.io/badge/Experience-4+%20years-informational)](https://github.com/dominguesrenan)
 
 </div>
