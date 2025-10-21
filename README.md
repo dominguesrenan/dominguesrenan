@@ -27,6 +27,8 @@
   [![LinkedIn](https://img.shields.io/badge/-Renan%20Domingues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-domingues-4808b2172/)](https://www.linkedin.com/in/renan-domingues-4808b2172/)
   [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:renandomingues.rsd@gmail.com)](mailto:renandomingues.rsd@gmail.com)
 
+  [![Experience](https://img.shields.io/badge/Experience-5+%20years-informational)](https://github.com/dominguesrenan)
+
 </div>
 
 <div align="center">
@@ -213,6 +215,6 @@ Here are my main projects, demonstrating technical versatility and experience in
 [![GitHub](https://img.shields.io/badge/-Renan%20Domingues-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dominguesrenan)](https://github.com/dominguesrenan)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:renandomingues.rsd@gmail.com)](mailto:renandomingues.rsd@gmail.com)
 
-[![Experience](https://img.shields.io/badge/Experience-4+%20years-informational)](https://github.com/dominguesrenan)
+[![Experience](https://img.shields.io/badge/Experience-5+%20years-informational)](https://github.com/dominguesrenan)
 
 </div>
