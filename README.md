@@ -31,6 +31,8 @@
 
 </div>
 
+<!-- About -->
+
 <div align="center">
 
 ## Hey 👋 I'm Renan Domingues
@@ -49,6 +51,8 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+<!-- Skills and Experience -->
 
 <div align="center">
 
@@ -78,6 +82,8 @@
 </h3>
 
 <div align="center">
+
+<!-- Featured Projects -->
 
 ## Featured Projects
 
@@ -191,16 +197,28 @@ Here are my main projects, demonstrating technical versatility and experience in
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<!-- Detailed Analytics -->
+
+<div align="center">
+
+## Detailed Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dominguesrenan&theme=midnight_purple" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dominguesrenan&theme=midnight_purple" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dominguesrenan&theme=midnight_purple" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dominguesrenan&theme=midnight_purple" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dominguesrenan&theme=midnight_purple&utcOffset=6" />
+
+</div>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dominguesrenan&theme=midnight_purple" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dominguesrenan&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominguesrenan&bg_color=000000&color=9745f5&line=ffffff&point=9f4bff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=dominguesrenan&data=followers,repositories,stars,commits&theme=monokai&title_color=000000">
+<img src="https://github-profile-trophy.vercel.app/?username=dominguesrenan&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
 </p>
 
 <h3 align="center">
