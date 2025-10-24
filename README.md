@@ -42,11 +42,9 @@
 
 </div>
 
-🎓 A **Systems Analyst** who transitioned to **Full Stack Developer**, focusing on **Web Development** and **Android/iOs Application Development**.
+A **Systems Analyst** with a solid transition to **Full Stack Developer**, working on **web** and **mobile projects** with a focus on **performance**, **scalability**, and **user experience**.
 
-👨‍💻 I have experience in **Laravel (PHP)**, **Node.js (Nest.js/Express)**, **React (Next.js), Vue.js (Nuxt.js), JavaScript/TypeScript**, **React Native + Expo**, **infrastructure with Docker + Docker-compose, CI/CD (GitHub Actions, Cloudflare Pages/Workers)** and I work in **planning, development and deployment of web applications**, combining **good architectural practices** with a focus on **performance, scalability and user experience**.
-
-✅ In addition to experience in web application development, I have experience in **E-commerce** with **Magento 1 and 2 - Adobe Commerce** and **WooCommerce** platforms.
+I have experience across the entire development cycle — from planning to deployment — using **Laravel, Node.js, React, Vue, Docker, and CI/CD**.
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -106,7 +104,7 @@ Here are my main projects, demonstrating technical versatility and experience in
 <div style="display: block;">
 
 ### **Administrative System (Laravel)**
-**`Admin Sistema de CRUD Completo`**
+**`CRUD System Admin`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/admin_sistemadecrud)**
 
@@ -122,7 +120,7 @@ Here are my main projects, demonstrating technical versatility and experience in
 <div style="display: block;">
 
 ### **NarutoDex App**
-**Full Stack Application about the Naruto Universe**
+**`Full Stack Application about the Naruto Universe`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/narutodexapp)** |
 🌐 **[Demo Web](https://narutodex.pages.dev/)** |
@@ -145,7 +143,7 @@ Here are my main projects, demonstrating technical versatility and experience in
 <div style="display: block;">
 
 ### **Integration Magento 2 (Vue.js)**
-**Frontend for E-commerce**
+**`Frontend for E-commerce`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/aplicacaointegracao_magento2)**
 
@@ -161,7 +159,7 @@ Here are my main projects, demonstrating technical versatility and experience in
 <div style="display: block;">
 
 ### **E-commerce Magento 2**
-**Complete E-Commerce Platform**
+**`Complete E-Commerce Platform`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/magento2-ecommerce)**
 
@@ -180,7 +178,7 @@ Here are my main projects, demonstrating technical versatility and experience in
 <div align="center">
 
 ### **Personal Portfolio**
-**Portfolio and Interactive Website**
+**`Portfolio and Interactive Website`**
 
 🔗 **[Ver Projeto](https://github.com/dominguesrenan/portifolio-pessoal)**
 
@@ -227,7 +225,9 @@ Here are my main projects, demonstrating technical versatility and experience in
 
 <div align="center">
 
-### **Let's discuss interesting opportunities and projects!**
+### **I enjoy solving complex problems with simple solutions.**
+
+**I'm always open to collaborating on new projects — especially involving architecture, automation, and modern digital experiences.**
 
 [![LinkedIn](https://img.shields.io/badge/-Renan%20Domingues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-domingues-4808b2172/)](https://www.linkedin.com/in/renan-domingues-4808b2172/)
 [![GitHub](https://img.shields.io/badge/-Renan%20Domingues-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dominguesrenan)](https://github.com/dominguesrenan)
